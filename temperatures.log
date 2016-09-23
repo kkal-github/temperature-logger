@@ -1,0 +1,2559 @@
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.9,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": "F15",
+		"unit": 63,
+		"state": "off"
+	},
+	"origin": "receiver",
+	"protocol": "clarus_switch",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.9,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.9,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.9,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.9,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 3
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.9,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 3
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 4
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.9,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 4
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 5
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.9,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 5
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 6
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.9,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 6
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.9,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.9,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 3
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.9,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 3
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 4
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.9,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 4
+}
+{
+	"message": {
+		"id": 2047,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 5
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.9,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 5
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 6
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.9,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 6
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 24.0,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 24.0,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 3
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 24.0,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 3
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 4
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 24.0,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 4
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 5
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 24.0,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 5
+}
+{
+	"message": {
+		"id": 10,
+		"temperature": 180.1,
+		"humidity": 63.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wx500",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.6,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 10,
+		"temperature": 180.1,
+		"humidity": 63.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wx500",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.6,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 10,
+		"temperature": 180.1,
+		"humidity": 63.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wx500",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 3
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 3
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.6,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 3
+}
+{
+	"message": {
+		"id": 10,
+		"temperature": 180.1,
+		"humidity": 63.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wx500",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 4
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 4
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.6,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 4
+}
+{
+	"message": {
+		"id": 10,
+		"temperature": 180.1,
+		"humidity": 63.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wx500",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.6,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 10,
+		"temperature": 180.1,
+		"humidity": 63.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wx500",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.6,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 10,
+		"temperature": 180.1,
+		"humidity": 63.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wx500",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 3
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 3
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.6,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 3
+}
+{
+	"message": {
+		"id": 10,
+		"temperature": 180.1,
+		"humidity": 63.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wx500",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 4
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 4
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.6,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 4
+}
+{
+	"message": {
+		"id": 10,
+		"temperature": 180.1,
+		"humidity": 63.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wx500",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 5
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 5
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.6,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 5
+}
+{
+	"message": {
+		"id": 10,
+		"temperature": 180.1,
+		"humidity": 63.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wx500",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 6
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 6
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.6,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 6
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.7,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.7,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 3
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.7,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 3
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 4
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.7,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 4
+}
+{
+	"message": {
+		"id": 2047,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 5
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.7,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 5
+}
+{
+	"message": {
+		"id": 2047,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 6
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.7,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 6
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.7,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 2015,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.7,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.7,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 3
+}
+{
+	"message": {
+		"id": 2047,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 3
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.7,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 4
+}
+{
+	"message": {
+		"id": 2047,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 4
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.7,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 5
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.7,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 4091,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.7,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 3
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.7,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 3
+}
+{
+	"message": {
+		"id": 2047,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 4
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.7,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 4
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.4,
+		"humidity": 100.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.4,
+		"humidity": 100.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 3
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.4,
+		"humidity": 100.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 3
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.4,
+		"humidity": 100.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.4,
+		"humidity": 100.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 3
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.4,
+		"humidity": 100.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 3
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.5,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 2047,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.5,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.5,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 3
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 3
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.5,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 4
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.5,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.5,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 3
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.5,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 3
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.5,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 2047,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.5,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 2047,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 3
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.5,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 3
+}
+{
+	"message": {
+		"id": 2047,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 4
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.5,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 4
+}
+{
+	"message": {
+		"id": 2047,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 5
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.5,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 5
+}
+{
+	"message": {
+		"id": 2047,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 6
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.5,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 6
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.5,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 2047,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.5,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 3
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.5,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 3
+}
+{
+	"message": {
+		"id": 2047,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 4
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.5,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 4
+}
+{
+	"message": {
+		"id": 2047,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 5
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.5,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 5
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 6
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.5,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 6
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.5,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.5,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 3
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.5,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 3
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.5,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 3583,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.5,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 3
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.5,
+		"humidity": 99.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 3
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.1,
+		"humidity": 100.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.1,
+		"humidity": 100.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 3
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.1,
+		"humidity": 100.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 3
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 4
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.1,
+		"humidity": 100.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 4
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 5
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.1,
+		"humidity": 100.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 5
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 6
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.1,
+		"humidity": 100.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 6
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.1,
+		"humidity": 100.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.1,
+		"humidity": 100.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 3
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.1,
+		"humidity": 100.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 3
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 4
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.1,
+		"humidity": 100.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 4
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 5
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.1,
+		"humidity": 100.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 5
+}
+{
+	"message": {
+		"id": 2047,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 6
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.1,
+		"humidity": 100.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 6
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.3,
+		"humidity": 100.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.3,
+		"humidity": 100.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 3
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.3,
+		"humidity": 100.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 3
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.3,
+		"humidity": 100.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.3,
+		"humidity": 100.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 3
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.3,
+		"humidity": 100.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 3
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 4
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.3,
+		"humidity": 100.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 4
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.3,
+		"humidity": 100.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.3,
+		"humidity": 100.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 2047,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 3
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.3,
+		"humidity": 100.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 3
+}
+{
+	"message": {
+		"id": 2047,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 4
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.3,
+		"humidity": 100.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 4
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.3,
+		"humidity": 100.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 2047,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.3,
+		"humidity": 100.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 2047,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.3,
+		"humidity": 100.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 3
+}
+{
+	"message": {
+		"id": 2047,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 3
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.3,
+		"humidity": 100.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 4
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 4
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.3,
+		"humidity": 100.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 5
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.3,
+		"humidity": 100.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.3,
+		"humidity": 100.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 3
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.3,
+		"humidity": 100.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 3
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.3,
+		"humidity": 100.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.3,
+		"humidity": 100.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 3
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.3,
+		"humidity": 100.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 3
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.3,
+		"humidity": 100.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 1280,
+		"temperature": 23.3,
+		"humidity": 100.0,
+		"battery": 1
+	},
+	"origin": "receiver",
+	"protocol": "alecto_ws1700",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 2
+}
+{
+	"message": {
+		"id": 4095,
+		"tempe
