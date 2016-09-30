@@ -2,5 +2,13 @@ import json
 import fileinput
 
 for line in fileinput.input():
-    j = json.loads(line)
-print j['two']
+	j = json.load(line)
+
+	
+def readJson() {
+
+}
+
+#for key, value in j.items() :
+#    print (key, value)
+#print (j)

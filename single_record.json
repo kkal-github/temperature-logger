@@ -1,0 +1,10 @@
+{
+	"message": {
+		"id": 4095,
+		"temperature": 409.5
+	},
+	"origin": "receiver",
+	"protocol": "alecto_wsd17",
+	"uuid": "0000-b8-27-eb-fb2377",
+	"repeats": 1
+}
