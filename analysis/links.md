@@ -5,3 +5,4 @@
 [wiringPi with 433Mhz receiver](http://www.homautomation.org/2013/10/09/how-to-control-di-o-devices-with-a-raspberry/)
 
 
+[turn-off-buffering-in-pipe](http://unix.stackexchange.com/questions/25372/turn-off-buffering-in-pipe)
