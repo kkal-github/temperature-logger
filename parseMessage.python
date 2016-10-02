@@ -1,14 +1,29 @@
 import json
 import fileinput
 
+class JsonObject:
+	i = 0
+	unparsed = ""
+	def readLine(self, line):
+		self.unparsed += line 
+		if line[:1] == "{":
+			self.i += 1	
+		elif line[:1] == "}":
+			self.i -= 1	
+		
+		if self.i == 0:
+			self.parse()
+			
+	def parse(self):
+		self.readOut = json.loads(self.unparsed)
+		
+probe = JsonObject()
+
 for line in fileinput.input():
-	j = json.load(line)
-
+	probe.readLine(line)
 	
-def readJson() {
-
-}
-
+print (probe.readOut)
+	
 #for key, value in j.items() :
 #    print (key, value)
 #print (j)
