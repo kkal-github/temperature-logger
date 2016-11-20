@@ -1,10 +1,22 @@
 import json
 import fileinput
+import os
+import sys
+import time
 
 class JsonObject:
 	i = 0
 	unparsed = ""
+	current = ""
+	def readData(self):
+		str = sys.stdin.read(50)
+		if len(str) == 0:
+			 sys.exit()
+		for line in str.split("\n"):
+			self.readLine(line)
 	def readLine(self, line):
+		#print(self.i)
+		#print(line)
 		self.unparsed += line 
 		if line[:1] == "{":
 			self.i += 1	
@@ -15,12 +27,28 @@ class JsonObject:
 			self.parse()
 			
 	def parse(self):
-		self.readOut = json.loads(self.unparsed)
+		#print("parse", len(self.unparsed))
+		if len(self.unparsed) > 0:
+			self.readOut = json.loads(self.unparsed)
+			if self.readOut["protocol"] == "alecto_ws1700":
+				current = time.strftime("%d %b %Y %H:%M %Z")
+				if current != self.current:
+					self.current = current
+					sys.stdout.write(current)
+					sys.stdout.write(" " + str(self.readOut["message"]["temperature"]) + "\n\r")
+			self.unparsed = ""
 		
 probe = JsonObject()
 
-for line in fileinput.input():
-	probe.readLine(line)
+#fd = os.open( "-", os.O_RDWR )
+#newin = os.fdopen(sys.stdin, 'rb', buffering=0)
+#str = sys.stdin.read( 100)
+#print("Read String is : ", str)
+#newin.close()
+
+#for line in fileinput.input():
+while 1:
+	probe.readData()
 	
 print (probe.readOut)
 	
